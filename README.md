@@ -1,8 +1,8 @@
-## Aplicación de Comandos
+## Command Application
 
-Ejercicio del curso 
+Ejercicio del curso - Command Line TODO
 
-## Instalación de Paquetes
+## Packet Installation
 ```
 npm install
 ```
